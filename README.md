@@ -6,3 +6,8 @@ Git is a distributed version control system (VCS) used to track changes in sourc
 ## Tools are used:
 React,AWS,Mysql
 
+
+
+ ## Team Mates:
+ John - Software Developer
+ Alice - I.T Head
